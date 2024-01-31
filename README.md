@@ -1,10 +1,10 @@
- # TD1_GPL
+# TD1_GPL
+ATTILA Guillaume, GIRAUDON Baptiste, FRIED Valentin, FLEHO Loris
+
 #ex4 l1
-#esilv
-#ATTILA Guillaume
-#GIRAUDON Baptiste
-#FRIED Valentin
-#FLEHO Loris
+#ex4 l2
+#ex4 l3
+#esilv 
 
 # Ligne1
 # Ligne2

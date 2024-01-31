@@ -1,4 +1,5 @@
 # TD1_GPL
+<<<<<<< HEAD
 ATTILA Guillaume, GIRAUDON Baptiste, FRIED Valentin, FLEHO Loris
 
 #ex4 l1
@@ -27,3 +28,8 @@ Du monde, de la ville
 Je marcherai
 Avec mon doudou
 Je ferai la vrille
+=======
+#ex3 l1
+#ex3 l2
+
+>>>>>>> 6f9bd4c (Update 2 README;md)

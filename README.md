@@ -21,7 +21,6 @@ Exercice 4
 .
 .
 
-# TD1_GPL
 Un jour j'irai
 Loin de tout
 Du monde, de la ville
